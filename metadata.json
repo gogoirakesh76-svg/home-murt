@@ -1,0 +1,8 @@
+{
+  "name": "HOME MURT",
+  "description": "HOME MURT — Modern online marketplace for home, electronics, kitchen, and lifestyle with live order tracking, wishlists, promo offers, UPI QR checkout, and full admin operations portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
